@@ -1,0 +1,2 @@
+# Predictive_-Modeling-Energy-Demand-Forecasting-ARIMA-
+nergy Demand Forecasting using ARIMA This project demonstrates a complete workflow for short-term energy demand (load) forecasting using classical Time Series Analysis techniques. Accurate load prediction is a critical challenge in the energy sector, essential for efficient grid management, resource planning, and minimizing operational costs.
